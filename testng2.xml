@@ -2,7 +2,7 @@
 <suite name="sample test suite" >
   <test name="Login Test">
     <classes>
-      <class name="com.selenium.Group.sauceDemo"/>
+      <class name="com.selenium.examples.AlertExample"/>
     </classes>
   </test>
 </suite>
